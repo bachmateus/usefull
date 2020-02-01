@@ -1,2 +1,2 @@
 # usefull
-Usefull functions
+Some usefull JS functions
